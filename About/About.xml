@@ -5,10 +5,14 @@
 	<packageId>lowpriorityshelves.1trickPwnyta</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<description>
 Sets the default storage priority for shelves to Low. 
 The reason for this is that with the vanilla default priority of Preferred, after a shelf is built, colonists immediately start moving everything from lower priority storage areas to the new shelf, only to have to move everything back after you set the storage options. Setting the default priority to Low allows you to configure the storage options first, including the priority, before your colonists waste their time moving everything.
+
+=== Updates ===
+03/20/2024: Updated to 1.5
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If you enjoy my work and want to support me and my family, I take donations at:
